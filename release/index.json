@@ -1,0 +1,15 @@
+[
+  {
+    "version": "v14.21.3",
+    "date": "2023-02-16",
+    "files": ["osx-arm64-tar"],
+    "npm": "6.14.18",
+    "v8": "8.4.371.23",
+    "uv": "1.42.0",
+    "zlib": "1.2.11",
+    "openssl": "1.1.1t",
+    "modules": "83",
+    "lts": "Fermium",
+    "security": true
+  }
+]
